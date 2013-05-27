@@ -1,6 +1,28 @@
+body 
+{
+	background-color: #f4f3f6;
+}
+
+div
+{
+	width: 400px;
+	margin: 0 auto;
+	text-align: center;
+}
+
 h1
 {
 	font-family: "freight-sans-pro";
 	font-weight: 500;
 	font-style: normal;
+	color: #404849;
 }
+
+h2
+{
+	font-family: "freight-sans-pro";
+	font-weight: 400;
+	font-style: normal;
+	color: #7f8c8d;
+}
+
