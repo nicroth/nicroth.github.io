@@ -3,14 +3,14 @@ body
 	background-color: #f4f3f6;
 }
 
-div
+div.hero
 {
 	width: 400px;
 	margin: 50px auto;
 	text-align: center;
 }
 @media only screen and (max-width: 480px) {
-	div
+	div.hero
 	{
 		width: 95%;
 	}
@@ -48,6 +48,30 @@ h2
 	margin: 0 0 10px 0;
 }
 
+h3
+{
+	font-family: "freight-sans-pro";
+	font-weight: 500;
+	font-style: normal;
+	color: #404849;
+	font-size: 22px;
+	line-height: 32px;
+	margin: 0;
+	padding: 0;
+}
+
+p
+{
+	font-family: "freight-sans-pro";
+	font-weight: 400;
+	font-style: normal;
+	color: #7f8c8d;
+	font-size: 16px;
+	line-height: 26px;
+	margin: 0;
+	padding: 0;
+}
+
 a
 {
 	text-decoration: none;
@@ -67,3 +91,4 @@ img.icon:hover
 {
 	opacity: 0.6;
 }
+
