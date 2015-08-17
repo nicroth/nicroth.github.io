@@ -19,17 +19,17 @@ div.hero
 img.profile
 {
 	margin: 0 0 20px 0;
-	width: 100px;
+	width: 200px;
 	height: auto;
-	-webkit-border-radius: 50px;
-	-moz-border-radius: 50px;
-	border-radius: 50px;
+	-webkit-border-radius: 100px;
+	-moz-border-radius: 100px;
+	border-radius: 100px;
 }
 
 h1
 {
-	font-family: "freight-sans-pro";
-	font-weight: 500;
+	font-family: Helvetica, sans-serif;
+	font-weight: 100;
 	font-style: normal;
 	color: #404849;
 	margin: 0;
@@ -39,37 +39,13 @@ h1
 
 h2
 {
-	font-family: "freight-sans-pro";
-	font-weight: 400;
+	font-family: Helvetica, sans-serif;
+	font-weight: 100;
 	font-style: normal;
 	color: #7f8c8d;
 	font-size: 22px;
 	line-height: 40px;
 	margin: 0 0 10px 0;
-}
-
-h3
-{
-	font-family: "freight-sans-pro";
-	font-weight: 500;
-	font-style: normal;
-	color: #404849;
-	font-size: 22px;
-	line-height: 32px;
-	margin: 0;
-	padding: 0;
-}
-
-p
-{
-	font-family: "freight-sans-pro";
-	font-weight: 400;
-	font-style: normal;
-	color: #7f8c8d;
-	font-size: 16px;
-	line-height: 26px;
-	margin: 0;
-	padding: 0;
 }
 
 a
